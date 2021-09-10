@@ -1,7 +1,7 @@
 public class Test {
 
   public static void main(String args[]) {
-    System.out.println("Tested successfully after modification");
+    System.out.println("Tested successfully after modification modified");
   }
 
 }
